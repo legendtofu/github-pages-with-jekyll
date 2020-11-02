@@ -1,3 +1,4 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Hello, I'm an undergraduate student at USCD, third year aerospace engineering major.
+I'm glad that you check this page out!
